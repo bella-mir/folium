@@ -1,6 +1,6 @@
 # Heritage Sites Map of Arkhangelsk
 
-[Github Pages](https://github.com/bella-mir/folium)
+[Github Pages](https://bella-mir.github.io/folium)
 
 ## Description
 
