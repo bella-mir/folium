@@ -4,7 +4,7 @@
 
 ## Description
 
-It is a sample of a student project during "Methods of Spatial Analysis. Advanced Level" course at HSE, Moscow, spring 2023.
+It is a sample of a student project, "Methods of Spatial Analysis. Advanced Level" classat HSE, Moscow, spring 2023.
 
 We use Folium Python library to visualize data of ciltural heritage sites in different Russian cities
 
