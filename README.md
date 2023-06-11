@@ -1,7 +1,5 @@
 # Heritage Sites Map of Arkhangelsk
 
-[Github Pages](https://bella-mir.github.io/folium)
-
 ## Description
 
 It is a sample of a student project, "Methods of Spatial Analysis. Advanced Level" classat HSE, Moscow, spring 2023.
